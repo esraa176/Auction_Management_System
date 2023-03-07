@@ -11,4 +11,18 @@ item.
 The purpose of this system is people invest their money to get maximum profit and knowledge 
 about our system. All types of user can go and analyses the data of different field and get 
 maximum profit for future investment. The system provides an easy solution to users to buy or 
-sell their product with maximum profit online
+sell their product with maximum profit online.
+
+
+### User Requirements
+• The user shall have the ability to search for an item either by category 
+or by product name, and see his transaction’s history.
+• The seller shall have the ability to create auction, edit auction (update 
+details or cancel) and see auction’s report after deadline.
+• The buyer shall have the ability to bid on any item and use his credit 
+card for payment.
+• The Admin shall have ability to cancel any auction.
+• The system shall produce report after the deadline of each auction, it 
+should contain the product’s details, the final bid amount on the 
+product and the buyer who bid on it.
+
